@@ -1,0 +1,30 @@
+function fact ( n ) result(x)
+  implicit none
+  integer, intent(in) :: n
+  integer :: x
+
+  if (n == 0) then
+    x=1
+  else
+    x= n * fact(n-1)
+  end if
+
+end function fact
+
+
+
+program myProgram
+    implicit none
+
+    integer :: i = 3, r
+
+    character :: a(5,2)
+    a = (/ (/ 'H','o' /), (/ '~','@' /), (/ 'H','o' /), (/ 'H','o' /), (/ 'H','o' /)/)
+    print *, a
+
+    r = fact(i)
+    print *, r
+
+
+end program myProgram
+

@@ -1,0 +1,36 @@
+digraph G { 
+  fontname="Helvetica,Arial,sans-serif"
+  node [fontname="Helvetica,Arial,sans-serif"]
+  edge [fontname="Helvetica,Arial,sans-serif"]
+ tbl[ shape=plaintext label=< <TABLE >  <TR>
+  <TD>Identificador</TD>
+  <TD>Valor</TD>
+  <TD>Tipo</TD>
+  <TD>Rol</TD>
+  </TR><TR> 
+<TD>PRINT_MATRIX</TD>
+  <TD> </TD>
+  <TD>SUBRUTINA</TD>
+  <TD>SUBRUTINA</TD>
+  </TR><TR> 
+<TD>ARR</TD>
+  <TD> 0 0 0 1 2 3 0 0 0 1 2 3 0 0 0 1 2 3 1 1 1 1 1 1 2 2 2 1 2 2 3 3 3 1 2 3 </TD>
+  <TD>INT</TD>
+  <TD>ARREGLO</TD>
+  </TR><TR> 
+<TD>I</TD>
+  <TD> 6</TD>
+  <TD>INT</TD>
+  <TD>VARIABLE</TD>
+  </TR><TR> 
+<TD>J</TD>
+  <TD> 6</TD>
+  <TD>INT</TD>
+  <TD>VARIABLE</TD>
+  </TR><TR> 
+<TD>ARR1</TD>
+  <TD> 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </TD>
+  <TD>INT</TD>
+  <TD>ARREGLO</TD>
+  </TR></TABLE>>];
+}
