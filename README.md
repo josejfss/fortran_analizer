@@ -33,4 +33,8 @@ Proyecto de Organización y Compiladores 2 Vacaciones Junio 2022
 ![image](https://user-images.githubusercontent.com/71232647/200994668-692abbe2-1efa-45d7-abde-cf2ff7740bd5.png)
 
 
+# Referencia de configuracion
+
+https://www.youtube.com/watch?v=e7q7fHcLzW0
+
 
